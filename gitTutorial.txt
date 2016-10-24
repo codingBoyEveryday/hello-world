@@ -1,1 +1,3 @@
-This is the 2nd version from Joe of the simple tutorial
+This is the 2nd version from Joe of the simple tutorial。
+
+This is the last modification of today's tutorial.
